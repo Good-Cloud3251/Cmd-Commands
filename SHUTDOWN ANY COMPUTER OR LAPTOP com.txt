@@ -1,0 +1,1 @@
+SHUTDOWN ANY COMPUTER OR LAPTOP command : shutdown -i view all internet addreses : arp -a
